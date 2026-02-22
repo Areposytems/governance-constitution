@@ -1,0 +1,130 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/schemas/lba.schema.json",
+  "title": "Legitimacy Binding Artifact (LBA)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "spec_version",
+    "lba_id",
+    "use_case_id",
+    "action_class_id",
+    "policy_snapshot_hash",
+    "lane_schema_hash",
+    "evidence_refs",
+    "approver_ids",
+    "approval_scope",
+    "issued_at",
+    "expires_at",
+    "non_delegation",
+    "signatures"
+  ],
+  "properties": {
+    "spec_version": {
+      "type": "string",
+      "pattern": "^1\\.0$"
+    },
+    "lba_id": {
+      "type": "string",
+      "minLength": 16,
+      "maxLength": 256,
+      "description": "Stable identifier, ideally a content hash."
+    },
+    "use_case_id": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 128
+    },
+    "action_class_id": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 128
+    },
+    "policy_snapshot_hash": {
+      "type": "string",
+      "minLength": 16,
+      "maxLength": 256
+    },
+    "lane_schema_hash": {
+      "type": "string",
+      "minLength": 16,
+      "maxLength": 256
+    },
+    "evidence_refs": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1, "maxLength": 256 },
+      "maxItems": 2048
+    },
+    "approver_ids": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1, "maxLength": 256 },
+      "maxItems": 256
+    },
+    "approval_scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["allow", "deny", "notes"],
+      "properties": {
+        "allow": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1, "maxLength": 256 },
+          "description": "Explicitly allowed operations/scopes."
+        },
+        "deny": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1, "maxLength": 256 },
+          "description": "Explicit boundaries / exclusions."
+        },
+        "notes": {
+          "type": "string",
+          "minLength": 0,
+          "maxLength": 4096,
+          "description": "Human-readable scope note; not used for enforcement."
+        }
+      }
+    },
+    "issued_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "expires_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "non_delegation": {
+      "type": "boolean",
+      "const": true
+    },
+    "supersedes_lba_id": {
+      "type": "string",
+      "minLength": 16,
+      "maxLength": 256
+    },
+    "revoked_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "revocation_reason_code": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 128
+    },
+    "signatures": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 256,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["signer_id", "alg", "sig", "signed_at"],
+        "properties": {
+          "signer_id": { "type": "string", "minLength": 1, "maxLength": 256 },
+          "alg": { "type": "string", "minLength": 1, "maxLength": 64 },
+          "sig": { "type": "string", "minLength": 16, "maxLength": 8192 },
+          "signed_at": { "type": "string", "format": "date-time" },
+          "key_id": { "type": "string", "minLength": 1, "maxLength": 256 }
+        }
+      }
+    }
+  }
+}
