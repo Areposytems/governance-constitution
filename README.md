@@ -137,6 +137,14 @@ The framework is stable at the constitutional level. Extensions may evolve indep
 
 ---
 
+## Attribution
+
+The Governance Constitution is maintained by Arepo Systems.
+
+Institutions, researchers, developers, policymakers, and public bodies may study, critique, adapt, or build on this framework subject to the license terms. Public use, adaptation, or derivative work should preserve clear attribution and should not imply endorsement, certification, or approval by the maintainers unless expressly agreed in writing.
+
+---
+
 ## License & contributions
 
 This repository is intended for open discussion, critique, and implementation.
