@@ -31,9 +31,8 @@ Terms such as procedural fairness, due process, natural justice, legal professio
 
 ## Suggested files
 
-* `LEGAL\\\_PROFILE.md` — main jurisdiction-neutral legal translation profile.
-* `jurisdictional\\\_adaptation\\\_note.md` — guide for translating the profile into local legal systems.
-* `legal\\\_ai\\\_governance\\\_mapping.md` — mapping to legal-practice and public-sector AI governance concerns.
-* `legal\\\_risk\\\_benefit\\\_matrix.md` — concise risk-benefit table.
-* `legal\\\_adoption\\\_checklist.md` — practical adoption checklist.
-
+* `LEGAL_PROFILE.md` — main jurisdiction-neutral legal translation profile.
+* `jurisdictional_adaptation_note.md` — guide for translating the profile into local legal systems.
+* `legal_ai_governance_mapping.md` — mapping to legal-practice and public-sector AI governance concerns.
+* `legal_risk_benefit_matrix.md` — concise risk-benefit table.
+* `legal_adoption_checklist.md` — practical adoption checklist.
