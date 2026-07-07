@@ -1,0 +1,43 @@
+{
+  "spec_version": "1.0",
+  "lba_id": "example-legal-lba-0001",
+  "use_case_id": "legal_chronology_preparation",
+  "action_class_id": "evidence_lane_summary_support",
+  "policy_snapshot_hash": "example-policy-hash-current-legal-ai-policy",
+  "lane_schema_hash": "example-lane-schema-hash-legal-profile-v0.2",
+  "evidence_refs": [
+    "source_bundle_001",
+    "transcript_002"
+  ],
+  "approver_ids": [
+    "responsible_legal_professional",
+    "legal_operations_lead"
+  ],
+  "approval_scope": {
+    "allow": [
+      "date extraction",
+      "source-linked summarisation",
+      "issue tagging",
+      "draft chronology support"
+    ],
+    "deny": [
+      "fabricating facts",
+      "generating authorities",
+      "altering witness meaning",
+      "making autonomous legal determinations",
+      "substituting for accountable human review"
+    ],
+    "notes": "Illustrative jurisdiction-neutral example only; not a valid operational LBA."
+  },
+  "issued_at": "2026-01-01T00:00:00Z",
+  "expires_at": "2026-02-01T00:00:00Z",
+  "non_delegation": true,
+  "signatures": [
+    {
+      "signer_id": "example_signer",
+      "alg": "example",
+      "sig": "example-signature-placeholder",
+      "signed_at": "2026-01-01T00:00:00Z"
+    }
+  ]
+}
