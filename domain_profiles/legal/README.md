@@ -36,3 +36,4 @@ Terms such as procedural fairness, due process, natural justice, legal professio
 * `legal_ai_governance_mapping.md` — mapping to legal-practice and public-sector AI governance concerns.
 * `legal_risk_benefit_matrix.md` — concise risk-benefit table.
 * `legal_adoption_checklist.md` — practical adoption checklist.
+* `../../adoption_guides/court_or_tribunal_adoption.md` — adoption guide for courts, tribunals, and court-adjacent institutions.
