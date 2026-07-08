@@ -1,6 +1,6 @@
 # Legal Domain Profile v0.1
 
-## 1\. Status
+## 1. Status
 
 Draft domain profile.  
 Compatible with Governance Constitution v1.0.  
@@ -8,7 +8,7 @@ Non-normative unless explicitly adopted by an institution.
 
 This version is written as a jurisdiction-neutral legal translation profile. It should be adapted through the laws, procedural rules, professional obligations, institutional policies, and terminology of each adopting jurisdiction.
 
-## 2\. Purpose
+## 2. Purpose
 
 This profile translates the Governance Constitution into legal-domain language for institutions considering responsible AI governance in legal, adjudicative, administrative, regulatory, and quasi-legal settings.
 
@@ -16,13 +16,13 @@ It is intended for discussion by courts, tribunals, administrative decision-make
 
 This document is not legal advice, not a court rule, not a professional conduct rule, not a certification scheme, and not a compliance guarantee.
 
-## 3\. Jurisdiction-neutral interpretation
+## 3. Jurisdiction-neutral interpretation
 
 This profile is intended to travel across legal systems. Terms such as **procedural fairness**, **due process**, **natural justice**, **legal professional privilege**, **attorney-client privilege**, **protected confidentiality**, **legal practitioner**, **counsel**, **tribunal**, **court**, **administrative decision-maker**, and **rights-affecting decision** should be read according to the equivalent concepts, duties, institutions, and safeguards in the adopting jurisdiction.
 
 Where local terminology differs, institutions should preserve the functional requirement rather than the exact wording.
 
-## 4\. Legal-domain translation
+## 4. Legal-domain translation
 
 |Governance Constitution concept|Legal-domain translation|
 |-|-|
@@ -37,7 +37,7 @@ Where local terminology differs, institutions should preserve the functional req
 |No semantic authority|The kernel does not determine truth, legality, justice, safety, admissibility, professional compliance, or ethical sufficiency|
 |No silent escalation|AI assistance must not quietly become legal authority, evidentiary authority, adjudicative authority, or decision authority|
 
-## 5\. Legal-domain principles
+## 5. Legal-domain principles
 
 ### 5.1 Human judgment and non-delegation
 
@@ -85,7 +85,7 @@ High-risk legal AI use should leave a proportionate audit trail, including where
 * expiry, review, or withdrawal conditions;
 * final accountable human person, office, body, or institution.
 
-## 6\. Legal AI use categories
+## 6. Legal AI use categories
 
 |Category|Examples|Governance posture|
 |-|-|-|
@@ -95,7 +95,7 @@ High-risk legal AI use should leave a proportionate audit trail, including where
 |High-risk rights-affecting use|Triage, risk scoring, eligibility, entitlement, enforcement, detention, sanctions, benefits, decision support, legal advice tools|Formal authorisation, accountable human approval, contestability, review and expiry conditions|
 |Prohibited or exceptional use|Autonomous judicial or adjudicative decision-making, unsupervised legal determinations, fabricated authorities, fabricated facts, undisclosed evidence transformation|Not legitimate without explicit lawful authority, exceptional safeguards, reviewability, and non-delegated human accountability|
 
-## 7\. Relationship to existing law and policy
+## 7. Relationship to existing law and policy
 
 This profile does not replace legal obligations.
 
@@ -110,7 +110,7 @@ It is a structural translation layer intended to support, where applicable:
 * transparency, accountability, explainability, and recordkeeping;
 * contestability, correction, appeal, review, or human reconsideration.
 
-## 8\. Adoption rule
+## 8. Adoption rule
 
 An institution adopting this profile should define:
 
@@ -121,7 +121,7 @@ An institution adopting this profile should define:
 5. the disclosure, contestability, review, and expiry conditions that apply;
 6. the process for updating the profile when law, policy, tools, or institutional practice changes.
 
-## 9\. Closing statement
+## 9. Closing statement
 
 Legal institutions should not discover AI misuse only after harm has occurred.
 
