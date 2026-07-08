@@ -51,7 +51,10 @@ The following uses are **restricted** and require a separate commercial agreemen
 - Internal adoption by large enterprises, governments, or public-sector bodies
 - Incorporation into proprietary governance, risk, or safety products
 
-"Commercial use" here refers to use that is **revenue-generating, procurement-facing, or institutionally operational**, regardless of whether the text itself is modified, use includes internal institutional deployment, even if no external product is sold.
+"Commercial use" here refers to use that is **revenue-generating, procurement-facing, or institutionally operational**, regardless of whether the text itself is modified.
+
+Commercial use includes internal institutional deployment, even if no external product is sold.
+
 ---
 
 ## 4. Commercial Licensing
