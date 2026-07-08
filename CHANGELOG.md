@@ -1,4 +1,3 @@
-CHANGELOG.md
 # Changelog
 
 This changelog records substantive public changes to the Governance Constitution repository.
