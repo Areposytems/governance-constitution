@@ -327,6 +327,7 @@ All LBAs must expire. Evergreen legitimacy is prohibited.
 mMRM is non-delegable and non-centralizing by design.
 
 ---
+
 ## II-6. Interpretive Advisory Mechanisms (IAM)
 
 ### Role
