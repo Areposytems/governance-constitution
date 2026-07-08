@@ -302,7 +302,13 @@ Missing required telemetry beyond a threshold must raise a non-closable alert wi
 
 ## II-5. mMRM — Minimal Model Risk Management (Legitimacy Core)
 
+### Role
+mMRM is the legitimacy core of the governance architecture. It binds sparse, explicit, and time-bounded legitimacy for Action Lane execution through Legitimacy Binding Artifacts (LBAs).
+
+mMRM does not execute actions, judge semantic correctness, certify systems, score risk, or monitor continuously. It determines only whether an applicable, unexpired, and properly authorized LBA exists for a claimed Action Lane execution.
+
 ### Invariants
+
 **mMRM-1 — Action requires an LBA**  
 No Action Lane execution is legitimate without an unexpired LBA.
 
@@ -322,9 +328,29 @@ mMRM is non-delegable and non-centralizing by design.
 
 ---
 ## II-6. Interpretive Advisory Mechanisms (IAM)
-The system may include non-binding interpretive advisory mechanisms that generate epistemic, ethical, or oversight signals to support system self-awareness and human understanding. These mechanisms operate in a parallel interpretive plane and do not bind legitimacy, authorize action, mediate access, or override governance layers. Outputs from such mechanisms are advisory only, observable by assurance systems, and auditable. A reference specification for Interpretive Advisory Mechanisms is maintained separately and does not alter the constitutional authority model.IAM outputs must never be required conditions for legitimacy, lane transitions, or SPM-C mediation.
+
+### Role
+
+The system may include non-binding interpretive advisory mechanisms that generate epistemic, ethical, or oversight signals to support system self-awareness and human understanding.
+
+Interpretive Advisory Mechanisms operate in a parallel interpretive plane. They do not bind legitimacy, authorize action, mediate access, or override governance layers.
+
+### Invariants
+
+**IAM-1 — Advisory-only status**  
+IAM outputs are advisory only. They must not be treated as conclusions, approvals, certifications, or legitimacy-binding artifacts.
+
+**IAM-2 — No legitimacy dependency**  
+IAM outputs must never be required conditions for legitimacy, lane transitions, SPM-C mediation, or Action Lane execution.
+
+**IAM-3 — Assurance observability**  
+IAM outputs must be observable by assurance systems and auditable when used to support system self-awareness, oversight, or human understanding.
+
+**IAM-4 — Separate specification boundary**  
+A reference specification for Interpretive Advisory Mechanisms may be maintained separately, but it does not alter the constitutional authority model.
 
 ---
+
 ## II-7. Amendment Process
 
 Amendments to this Constitution require:
