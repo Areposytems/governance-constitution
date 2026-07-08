@@ -70,7 +70,7 @@ Obtaining a commercial license does **not** grant exclusive authority, certifica
 ## 5. Attribution & Integrity
 
 - Attribution must be preserved in all copies and derivatives.
-- The text may not be misrepresented as endorsed, certified, or approved by the Arepo Systems or the original author without explicit permission.
+- The text may not be misrepresented as endorsed, certified, or approved by Arepo Systems or the original author without explicit permission.
 - Modified versions must clearly indicate that they are modified.
 
 ---
