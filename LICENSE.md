@@ -2,7 +2,7 @@
 
 ## Governance Constitution License v1.0 (GCL-1.0)
 
-Copyright © 2026
+Copyright © 2026 Arepo Systems
 
 This work includes:
 - Governance Constitution
@@ -70,7 +70,7 @@ Obtaining a commercial license does **not** grant exclusive authority, certifica
 ## 5. Attribution & Integrity
 
 - Attribution must be preserved in all copies and derivatives.
-- The text may not be misrepresented as endorsed, certified, or approved by the original author without explicit permission.
+- The text may not be misrepresented as endorsed, certified, or approved by the Arepo Systems or the original author without explicit permission.
 - Modified versions must clearly indicate that they are modified.
 
 ---
@@ -85,7 +85,7 @@ The author makes no guarantees regarding safety, compliance, fitness for purpose
 
 ## 7. Stewardship
 
-The author retains stewardship of the constitutional framework and may:
+Arepo Systems retains stewardship of the constitutional framework and may:
 - clarify interpretations
 - publish official amendments
 - offer advisory or review services
