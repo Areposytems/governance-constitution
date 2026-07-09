@@ -1,6 +1,7 @@
-# Part I - Governance Constitution v1.0
+Governance Constitution v1.0.1
 
-## Preamble
+# Part I - Preamble
+
 This Constitution defines a separation-of-powers governance framework for AI systems and their integrations. Its purpose is to enable interoperability, auditability, and risk containment **without centralization**, **without semantic authority**, and **without silent escalation**. Authority is deliberately fragmented so that no single component, operator, or vendor can silently create legitimacy.
 
 This document is normative. Invariants stated herein **must always hold**.
@@ -127,6 +128,7 @@ All LCEs produce an immutable LBA containing:
 - signatures
 
 Absence of an applicable, unexpired LBA implies absence of legitimacy for that action.
+
 ---
 
 ## I-10. Governance Extensions (Optional)
@@ -155,7 +157,7 @@ Extensions may not introduce new legitimacy-binding authorities.
 
 ---
 
-## II-1 SPM-C — Selective Permission & Mediation (Conformance)
+## II-1. SPM-C — Selective Permission & Mediation (Conformance)
 
 ### Role
 SPM-C mediates **who may connect to whom, under what declared capabilities, schemas, rates, and identities**. It does not judge meaning, truth, safety, or intent.
@@ -194,7 +196,7 @@ Credential issuance, rotation, and revocation events must be immutably logged an
 
 ---
 
-## II-2 AAM — Anti-Attractor Mechanism
+## II-2. AAM — Anti-Attractor Mechanism
 
 > **Control-theoretic note:** AAM governs *trajectory deviation* (detecting and countering unhealthy dynamics). It does not govern recovery or re-entry into forward motion. That function is handled by ARGL (defined below).
 
@@ -328,7 +330,7 @@ mMRM is non-delegable and non-centralizing by design.
 
 ---
 
-## II-6. Interpretive Advisory Mechanisms (IAM)
+## II-6. IAM — Interpretive Advisory Mechanisms
 
 ### Role
 
@@ -368,5 +370,5 @@ Silent amendment is prohibited.
 
 ## Status
 
-This document constitutes **Governance Constitution v1.0**. It is intended as a living but tightly controlled foundation for refinement, formalization, and conformance testing.
+This document constitutes **Governance Constitution v1.0.1**. It is intended as a living but tightly controlled foundation for refinement, formalization, and conformance testing.
 
