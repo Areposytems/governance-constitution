@@ -29,7 +29,7 @@ If no such artifact exists, legitimacy does not.
 
 ```text
 .
-├─ CONSTITUTION.md        # Governance Constitution v1.0 (normative)
+├─ CONSTITUTION.md        # Governance Constitution v1.0.1 (normative)
 ├─ mMRM_SPEC.md           # Legitimacy Kernel Specification (normative)
 ├─ schemas/               # Machine-checkable artifact definitions
 │  ├─ lba.schema.json     # Legitimacy Binding Artifact (LBA)
@@ -126,7 +126,7 @@ Those concerns are intentionally left to **extensions**, domain profiles, and in
 
 ## Status
 
-* Governance Constitution: **v1.0**
+* Governance Constitution: **v1.0.1**
 * Legitimacy Kernel (mMRM): **v1.0**
 * Legal Domain Profile: **draft v0.1** (jurisdiction-neutral)
 * Medical Domain Profile: **placeholder draft v0.1**
