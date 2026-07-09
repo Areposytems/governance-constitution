@@ -6,10 +6,13 @@ They explain how an institution might apply the Governance Constitution and rele
 
 They do not amend the Constitution, certify compliance, or replace domain law.
 
+## Available guides
+
+- `court_or_tribunal_adoption.md` — early draft guide for courts, tribunals, and court-adjacent institutions.
+
 ## Planned guides
 
 - public sector adoption;
-- court or tribunal adoption;
 - hospital adoption;
 - university adoption;
 - financial institution adoption.
