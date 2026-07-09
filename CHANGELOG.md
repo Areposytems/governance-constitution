@@ -11,10 +11,13 @@ The constitutional core and mMRM legitimacy kernel remain versioned separately f
 ### Changed
 
 - Updated JSON Schema `$id` values from GitHub page URLs to raw repository-hosted schema URLs.
+- Updated `CONSTITUTION.md` to `Governance Constitution v1.0.1`.
+- Normalized Markdown heading hierarchy for the document title, Part I, Part II, numbered sections, and internal subsections.
 
 ### Notes
 
 - No schema fields, validation rules, or constitutional semantics were changed.
+- No constitutional requirements, component authorities, invariants, schema fields, or governance semantics were changed.
 
 ---
 
