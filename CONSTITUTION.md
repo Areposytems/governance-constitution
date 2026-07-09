@@ -1,6 +1,6 @@
 # Governance Constitution v1.0.1
 
-## Part I - Preamble
+## Part I — Preamble
 
 This Constitution defines a separation-of-powers governance framework for AI systems and their integrations. Its purpose is to enable interoperability, auditability, and risk containment **without centralization**, **without semantic authority**, and **without silent escalation**. Authority is deliberately fragmented so that no single component, operator, or vendor can silently create legitimacy.
 
