@@ -8,6 +8,18 @@ The constitutional core and mMRM legitimacy kernel remain versioned separately f
 
 ## Domain Profiles v0.1 — 2026-07-08
 
+- ## Schema Metadata Update — 2026-07-09
+
+### Changed
+
+- Updated JSON Schema `$id` values from GitHub page URLs to raw repository-hosted schema URLs.
+
+### Notes
+
+- No schema fields, validation rules, or constitutional semantics were changed.
+
+---
+
 ### Added
 
 - Added the first domain-profile changelog: `CHANGELOG_DOMAIN_PROFILES_v0.1.md`.
@@ -29,15 +41,3 @@ The constitutional core and mMRM legitimacy kernel remain versioned separately f
 - No amendment was made to the mMRM Legitimacy Kernel Specification.
 - Domain profiles do not create legal, medical, financial, academic, or regulatory compliance by themselves.
 - For detailed domain-profile changes, see `CHANGELOG_DOMAIN_PROFILES_v0.1.md`.
-
----
-
-- ## Schema Metadata Update — 2026-07-08
-
-### Changed
-
-- Updated JSON Schema `$id` values from GitHub page URLs to raw repository-hosted schema URLs.
-
-### Notes
-
-- No schema fields, validation rules, or constitutional semantics were changed.
