@@ -6,7 +6,7 @@ The constitutional core and mMRM legitimacy kernel remain versioned separately f
 
 ---
 
-## Schema Metadata Update — 2026-07-09
+## Metadata and Formatting Update — 2026-07-09
 
 ### Changed
 
