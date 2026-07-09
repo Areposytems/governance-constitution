@@ -16,8 +16,7 @@ The constitutional core and mMRM legitimacy kernel remain versioned separately f
 
 ### Notes
 
-- No schema fields, validation rules, or constitutional semantics were changed.
-- No constitutional requirements, component authorities, invariants, schema fields, or governance semantics were changed.
+- No constitutional requirements, component authorities, invariants, schema fields, validation rules, or governance semantics were changed.
 
 ---
 
