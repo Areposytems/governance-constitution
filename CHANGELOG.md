@@ -6,9 +6,7 @@ The constitutional core and mMRM legitimacy kernel remain versioned separately f
 
 ---
 
-## Domain Profiles v0.1 — 2026-07-08
-
-- ## Schema Metadata Update — 2026-07-09
+## Schema Metadata Update — 2026-07-09
 
 ### Changed
 
@@ -19,6 +17,8 @@ The constitutional core and mMRM legitimacy kernel remain versioned separately f
 - No schema fields, validation rules, or constitutional semantics were changed.
 
 ---
+
+## Domain Profiles v0.1 — 2026-07-08
 
 ### Added
 
