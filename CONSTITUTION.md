@@ -1,6 +1,6 @@
-Governance Constitution v1.0.1
+# Governance Constitution v1.0.1
 
-# Part I - Preamble
+## Part I - Preamble
 
 This Constitution defines a separation-of-powers governance framework for AI systems and their integrations. Its purpose is to enable interoperability, auditability, and risk containment **without centralization**, **without semantic authority**, and **without silent escalation**. Authority is deliberately fragmented so that no single component, operator, or vendor can silently create legitimacy.
 
@@ -8,7 +8,7 @@ This document is normative. Invariants stated herein **must always hold**.
 
 ---
 
-## I-1. Constitutional Overview
+### I-1. Constitutional Overview
 
 This Constitution establishes a **separation-of-powers governance architecture** for complex AI and cybernetic systems. It is designed to survive adversarial pressure, federation, policy forks, audit saturation, and political capture **without centralization**.
 
@@ -21,7 +21,7 @@ The system is constitutionally complete with the components defined in Part I. A
 
 ---
 
-## I-2. Separation of Powers (Ecosystem Invariants)
+### I-2. Separation of Powers (Ecosystem Invariants)
 
 **ECO-1 — Separation of powers**  
 No single component may simultaneously:
@@ -40,7 +40,7 @@ Any state or schema change driven by inconsistent, delayed, or conflicting input
 
 ---
 
-## I-3. Lane Model
+### I-3. Lane Model
 
 All system behavior is classified into one of three explicit lanes:
 
@@ -54,32 +54,32 @@ No execution outside declared Action Lanes is legitimate.
 
 ---
 
-## I-4. SPM-C — Selective Permission & Mediation (Conformance)
+### I-4. SPM-C — Selective Permission & Mediation (Conformance)
 
 SPM-C governs **connections and interfaces only**. It applies declared rules without semantic interpretation or execution authority.
 
 ---
 
-## I-5. AAM — Anti-Attractor Mechanism
+### I-5. AAM — Anti-Attractor Mechanism
 
 AAM governs **trajectory awareness and repulsion**. It expands hypothesis space and detects unhealthy convergence without authority.
 
 ---
 
-## I-6. ARGL — Ascent & Recovery Governance Layer
+### I-6. ARGL — Ascent & Recovery Governance Layer
 
 ARGL governs **recovery, hysteresis, and forward re-entry** after intervention. It prevents oscillation and paralysis.
 
 ---
 
-## I-7. PCSU — Proof-Carrying State Updates
+### I-7. PCSU — Proof-Carrying State Updates
 
 PCSU governs **how systems change state or schema honestly** when faced with inconsistent, delayed, missing, or conflicting inputs.
 
-### Role
+#### Role
 PCSU enforces explicit, replayable, and auditable transitions. Silent accommodation or reinterpretation is prohibited.
 
-### Core Requirements
+#### Core Requirements
 - Every state or schema transition must reference:
   - prior state hash
   - triggering event IDs
@@ -93,25 +93,25 @@ PCSU is non-semantic and non-authoritative.
 
 ---
 
-## I-8. CAA — Continuous Artificial Assurance
+### I-8. CAA — Continuous Artificial Assurance
 
 CAA provides **read-only observability, capture detection, and external mirroring**. It does not certify, approve, or enforce.
 
 ---
 
-## I-9. mMRM — Minimal Model Risk Management (Legitimacy Core)
+### I-9. mMRM — Minimal Model Risk Management (Legitimacy Core)
 
-### Constitutional Role
+#### Constitutional Role
 mMRM is the **sole legitimacy-binding authority** in the system. It defines when Action is constitutionally authorized.
 
 mMRM does not score risk, monitor continuously, interpret semantics, or execute actions.
 
 Legitimacy here is constitutional/procedural authorization for Action Lane execution, not semantic correctness or legal validity.
 
-### Core Concept: Legitimacy-Critical Events (LCEs)
+#### Core Concept: Legitimacy-Critical Events (LCEs)
 An LCE is any event whose occurrence authorizes or materially enables Action.
 
-### Legitimacy Binding Artifact (LBA)
+#### Legitimacy Binding Artifact (LBA)
 All LCEs produce an immutable LBA containing:
 - LBA ID (hash)
 - use-case ID
@@ -131,7 +131,7 @@ Absence of an applicable, unexpired LBA implies absence of legitimacy for that a
 
 ---
 
-## I-10. Governance Extensions (Optional)
+### I-10. Governance Extensions (Optional)
 
 Additional governance functions may exist **only as extensions** layered atop mMRM. These include, but are not limited to:
 - Risk scoring frameworks
@@ -145,24 +145,24 @@ Extensions may not introduce new legitimacy-binding authorities.
 
 ---
 
-## I-11. Federation & Interoperability
+### I-11. Federation & Interoperability
 
 - Cross-system recognition requires explicit LBAs.
 - Participation does not imply approval.
 - Proof-carrying federation is mandatory.
 
 ---
-# Part II — Normative Component Specifications
+## Part II — Normative Component Specifications
 
 
 ---
 
-## II-1. SPM-C — Selective Permission & Mediation (Conformance)
+### II-1. SPM-C — Selective Permission & Mediation (Conformance)
 
-### Role
+#### Role
 SPM-C mediates **who may connect to whom, under what declared capabilities, schemas, rates, and identities**. It does not judge meaning, truth, safety, or intent.
 
-### Invariants
+#### Invariants
 
 **SPM-C-1 — No semantic authority**  
 SPM-C must not classify content as true/false, safe/unsafe, allowed/disallowed based on meaning. Enforcement is limited to protocol, identity, rate, schema, and capability declarations.
@@ -196,14 +196,14 @@ Credential issuance, rotation, and revocation events must be immutably logged an
 
 ---
 
-## II-2. AAM — Anti-Attractor Mechanism
+### II-2. AAM — Anti-Attractor Mechanism
 
 > **Control-theoretic note:** AAM governs *trajectory deviation* (detecting and countering unhealthy dynamics). It does not govern recovery or re-entry into forward motion. That function is handled by ARGL (defined below).
 
-### Role
+#### Role
 AAM resists convergence toward narrow, captured, or power-seeking equilibria by maintaining diversity in hypothesis generation. It is explicitly **non-authoritative**.
 
-### Invariants
+#### Invariants
 
 **AAM-1 — Advisory-only output**  
 Outputs must be labeled as hypotheses or alternatives, never conclusions.
@@ -231,14 +231,14 @@ Personalization that materially alters outputs must be logged with feature flags
 
 ---
 
-## II-3. ARGL — Ascent & Recovery Governance Layer
+### II-3. ARGL — Ascent & Recovery Governance Layer
 
-### Role
+#### Role
 ARGL governs **phase-exit, recovery, and forward re-entry** after intervention. It prevents oscillation, hesitation, and clarification loops once a destabilizing attractor has been countered.
 
 ARGL is neither semantic nor generative. It is a **control-layer governor** that ensures reasoning progresses *after* damping or intervention.
 
-### Invariants
+#### Invariants
 
 **ARGL-1 — No semantic judgment**  
 ARGL must not judge truth, correctness, or safety of content. It operates only on state, phase, and control signals.
@@ -266,12 +266,12 @@ ARGL must not perform attractor detection or diversity expansion. Its sole funct
 
 ---
 
-## II-4. CAA — Continuous Artificial Assurance
+### II-4. CAA — Continuous Artificial Assurance
 
-### Role
+#### Role
 CAA provides continuous, read-only observation, capture detection, and audit evidence. It does not enforce policy or grant approval.
 
-### Invariants
+#### Invariants
 
 **CAA-1 — Read-only posture**  
 CAA must not modify production systems, policies, or gates.
@@ -302,14 +302,14 @@ Missing required telemetry beyond a threshold must raise a non-closable alert wi
 
 ---
 
-## II-5. mMRM — Minimal Model Risk Management (Legitimacy Core)
+### II-5. mMRM — Minimal Model Risk Management (Legitimacy Core)
 
-### Role
+#### Role
 mMRM is the legitimacy core of the governance architecture. It binds sparse, explicit, and time-bounded legitimacy for Action Lane execution through Legitimacy Binding Artifacts (LBAs).
 
 mMRM does not execute actions, judge semantic correctness, certify systems, score risk, or monitor continuously. It determines only whether an applicable, unexpired, and properly authorized LBA exists for a claimed Action Lane execution.
 
-### Invariants
+#### Invariants
 
 **mMRM-1 — Action requires an LBA**  
 No Action Lane execution is legitimate without an unexpired LBA.
@@ -330,15 +330,15 @@ mMRM is non-delegable and non-centralizing by design.
 
 ---
 
-## II-6. IAM — Interpretive Advisory Mechanisms
+### II-6. IAM — Interpretive Advisory Mechanisms
 
-### Role
+#### Role
 
 The system may include non-binding interpretive advisory mechanisms that generate epistemic, ethical, or oversight signals to support system self-awareness and human understanding.
 
 Interpretive Advisory Mechanisms operate in a parallel interpretive plane. They do not bind legitimacy, authorize action, mediate access, or override governance layers.
 
-### Invariants
+#### Invariants
 
 **IAM-1 — Advisory-only status**  
 IAM outputs are advisory only. They must not be treated as conclusions, approvals, certifications, or legitimacy-binding artifacts.
@@ -354,7 +354,7 @@ A reference specification for Interpretive Advisory Mechanisms may be maintained
 
 ---
 
-## II-7. Amendment Process
+### II-7. Amendment Process
 
 Amendments to this Constitution require:
 - versioned change proposals,
@@ -368,7 +368,7 @@ Silent amendment is prohibited.
 
 ---
 
-## Status
+### Status
 
 This document constitutes **Governance Constitution v1.0.1**. It is intended as a living but tightly controlled foundation for refinement, formalization, and conformance testing.
 
