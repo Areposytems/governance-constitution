@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/Areposytems/governance-constitution/blob/main/schemas/pcsu_transition.schema.json",
+  "$id": "https://raw.githubusercontent.com/Areposytems/governance-constitution/main/schemas/pcsu_transition.schema.json",
   "title": "PCSU State/Schema Transition Record",
   "type": "object",
   "additionalProperties": false,
