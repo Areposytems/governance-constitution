@@ -31,6 +31,7 @@ If no such artifact exists, legitimacy does not.
 .
 ├─ CONSTITUTION.md        # Governance Constitution v1.0.1 (normative)
 ├─ mMRM_SPEC.md           # Legitimacy Kernel Specification (normative)
+├─ DOMAIN_PROFILE_CONTRACT.md # Rules for translating the core into domain profiles
 ├─ schemas/               # Machine-checkable artifact definitions
 │  ├─ lba.schema.json     # Legitimacy Binding Artifact (LBA)
 │  └─ pcsu_transition.schema.json
