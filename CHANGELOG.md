@@ -6,6 +6,20 @@ The constitutional core and mMRM legitimacy kernel remain versioned separately f
 
 ---
 
+## Domain Profile Contract — 2026-07-14
+
+### Added
+
+- Added `DOMAIN_PROFILE_CONTRACT.md` to define the translation contract for domain profiles.
+- Clarified how future profiles should preserve the constitutional core while translating domain-specific duties, roles, workflows, and adoption considerations.
+
+### Notes
+
+- No constitutional requirements, component authorities, invariants, schemas, or governance semantics were changed.
+- Domain profiles remain non-normative translation layers unless separately adopted by an institution.
+
+---
+
 ## Metadata and Formatting Update — 2026-07-09
 
 ### Changed
