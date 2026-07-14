@@ -29,3 +29,9 @@ Domain law defines what is owed.
 
 The Governance Constitution defines how systems should prove that authority, responsibility, and change were properly carried.
 
+## Domain Profile Contract
+
+All domain profiles should follow the root-level `DOMAIN_PROFILE_CONTRACT.md`.
+
+The contract defines how profiles may translate the Governance Constitution into domain-specific language while preserving the constitutional core, mMRM legitimacy kernel, schema boundaries, and non-compliance disclaimer.
+
