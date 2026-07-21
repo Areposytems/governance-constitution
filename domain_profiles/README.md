@@ -18,10 +18,11 @@ A domain profile:
 
 ## Current profiles
 
+* `academic/` — education, research integrity, scholarly work, assessment, citation, and institutional knowledge workflows.
+* `agentic_software/` — AI coding agents, repository workflows, CI/CD systems, tool-using models, software automation, and deployment-related workflows.
+* `economic/` — financial, economic, consumer, market, procurement, credit, insurance, and model-risk workflows.
 * `legal/` — legal systems, courts, tribunals, legal practice, public law, and legal-adjacent AI workflows.
 * `medical/` — clinical, hospital, patient safety, health administration, and care-related AI workflows.
-* `economic/` — financial, economic, consumer, market, procurement, credit, insurance, and model-risk workflows.
-* `academic/` — education, research integrity, scholarly work, assessment, citation, and institutional knowledge workflows.
 
 ## Profile rule
 
