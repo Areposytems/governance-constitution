@@ -12,14 +12,14 @@ It is intended to support early review, discussion, adoption planning, and imple
 
 ## Included files
 
-* `AGENTIC\_SOFTWARE\_PROFILE.md` — main environment-neutral agentic software translation profile.
-* `software\_environment\_adaptation\_note.md` — guide for translating the profile into local software environments.
-* `github\_agentic\_workflow\_adoption.md` — adoption guide for GitHub-style agentic workflows.
-* `agentic\_software\_governance\_mapping.md` — mapping between agentic software governance concerns and the Governance Constitution.
-* `agentic\_software\_risk\_benefit\_matrix.md` — concise risk-benefit matrix.
-* `agentic\_software\_adoption\_checklist.md` — practical adoption checklist.
-* `agentic\_pr\_lba\_example.json` — illustrative Legitimacy Binding Artifact for an agentic pull request workflow.
-* `CHANGELOG\_AGENTIC\_SOFTWARE\_v0.1.md` — changelog for this draft bundle.
+* `AGENTIC\SOFTWARE\PROFILE.md` — main environment-neutral agentic software translation profile.
+* `software\environment\adaptation\note.md` — guide for translating the profile into local software environments.
+* `github\agentic\workflow\adoption.md` — adoption guide for GitHub-style agentic workflows.
+* `agentic\software\governance\mapping.md` — mapping between agentic software governance concerns and the Governance Constitution.
+* `agentic\software\risk\benefit\matrix.md` — concise risk-benefit matrix.
+* `agentic\software\adoption\checklist.md` — practical adoption checklist.
+* `agentic\pr\lba\example.json` — illustrative Legitimacy Binding Artifact for an agentic pull request workflow.
+* `CHANGELOG\AGENTIC\SOFTWARE\v0.1.md` — changelog for this draft bundle.
 
 ## Boundary
 
