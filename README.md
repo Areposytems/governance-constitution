@@ -36,10 +36,11 @@ If no such artifact exists, legitimacy does not.
 │  ├─ lba.schema.json     # Legitimacy Binding Artifact (LBA)
 │  └─ pcsu_transition.schema.json
 ├─ domain_profiles/       # Optional non-normative domain translation profiles
-│  ├─ legal/
-│  ├─ medical/
+│  ├─ academic/
+│  ├─ agentic_software/
 │  ├─ economic/
-│  └─ academic/
+│  ├─ legal/
+│  └─ medical/
 ├─ adoption_guides/       # Non-normative implementation guidance
 ├─ examples/              # Illustrative artifacts and workflow examples
 └─ CHANGELOG.md
@@ -63,11 +64,12 @@ Domain profiles translate the constitutional core into sector-specific language.
 
 Current profile areas:
 
+* **Academic**: education, research integrity, citation, assessment, authorship, and institutional knowledge systems.
+* **Agentic Software Systems**: AI coding agents, repository workflows, CI/CD systems, tool-using models, developer platforms, and consequential software automation.
+* **Economic**: finance, public administration, procurement, credit, insurance, consumer protection, and model-risk workflows.
 * **Legal**: courts, tribunals, legal practice, public law, legal-policy bodies, and legal AI workflows.
 * **Medical**: clinical, hospital, patient safety, health administration, and care-related AI workflows.
-* **Economic**: finance, public administration, procurement, credit, insurance, consumer protection, and model-risk workflows.
-* **Academic**: education, research integrity, citation, assessment, authorship, and institutional knowledge systems.
-
+  
 Domain profiles do **not** amend the constitutional core.
 
 They do **not** create legal, medical, financial, academic, or regulatory compliance by themselves.
