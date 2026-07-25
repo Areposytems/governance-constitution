@@ -1,4 +1,4 @@
-# Agentic Software Systems Domain Profile Bundle v0.1
+# Agentic Software Systems Domain Profile
 
 Status: Draft v0.1  
 Type: Non-normative domain translation and adoption bundle  
@@ -12,14 +12,14 @@ It is intended to support early review, discussion, adoption planning, and imple
 
 ## Included files
 
-* `AGENTIC\SOFTWARE\PROFILE.md` — main environment-neutral agentic software translation profile.
-* `software\environment\adaptation\note.md` — guide for translating the profile into local software environments.
-* `github\agentic\workflow\adoption.md` — adoption guide for GitHub-style agentic workflows.
-* `agentic\software\governance\mapping.md` — mapping between agentic software governance concerns and the Governance Constitution.
-* `agentic\software\risk\benefit\matrix.md` — concise risk-benefit matrix.
-* `agentic\software\adoption\checklist.md` — practical adoption checklist.
-* `agentic\pr\lba\example.json` — illustrative Legitimacy Binding Artifact for an agentic pull request workflow.
-* `CHANGELOG\AGENTIC\SOFTWARE\v0.1.md` — changelog for this draft bundle.
+* `AGENTIC_SOFTWARE_PROFILE.md` — main environment-neutral agentic software translation profile.
+* `software_environment_adaptation_note.md` — guide for translating the profile into local software environments.
+* `github_agentic_workflow_adoption.md` — adoption guide for GitHub-style agentic workflows.
+* `agentic_software_governance_mapping.md` — mapping between agentic software governance concerns and the Governance Constitution.
+* `agentic_software_risk_benefit_matrix.md` — concise risk-benefit matrix.
+* `agentic_software_adoption_checklist.md` — practical adoption checklist.
+* `agentic_pr_lba_example.json` — illustrative Legitimacy Binding Artifact for an agentic pull request workflow.
+* `CHANGELOG_AGENTIC_SOFTWARE_v0.1.md` — changelog for this draft bundle.
 
 ## Boundary
 
