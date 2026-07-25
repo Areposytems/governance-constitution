@@ -8,8 +8,8 @@ They show how domain profiles may express the Governance Constitution’s concep
 
 ## Available examples
 
-* `legal_lba_example.json` — illustrative jurisdiction-neutral legal legal Legitimacy Binding Artifact.
-* `agentic_pr_lba_example.json` — illustrative environment-neutral Legitimacy Binding Artifact for scoped agentic pull-request preparation.
+* [`legal_lba_example.json`](legal_lba_example.json) — illustrative jurisdiction-neutral legal Legitimacy Binding Artifact.
+* [`agentic_pr_lba_example.json`](agentic_pr_lba_example.json) — illustrative environment-neutral Legitimacy Binding Artifact for scoped agentic pull-request preparation.
 
 ## Validation note
 
