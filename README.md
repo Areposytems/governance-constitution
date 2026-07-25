@@ -51,7 +51,7 @@ If no such artifact exists, legitimacy does not.
 ## Core ideas (high level)
 
 * **Separation of powers**: access control, legitimacy, recovery, and audit are never fused
-* **Non-semantic governance**: no component judges truth, safety, or meaning
+* **Non-semantic legitimacy**: constitutional authorization is not created by judgments about truth, safety, meaning, or correctness
 * **Sparse legitimacy**: only a small number of explicit events can authorize action
 * **Proof-carrying change**: state and schema changes must be replayable and auditable
 * **Federation without trust**: participation does not imply approval
@@ -80,24 +80,20 @@ They are translation layers that map domain-specific duties into the Constitutio
 
 ## What makes this different
 
-Most governance systems rely on:
+Many governance systems attempt to establish authority or assurance through:
 
-* continuous monitoring
-* risk scoring
-* centralized approval
-* or interpretive audits
+* continuous monitoring;
+* risk scoring;
+* centralized approval; or
+* interpretive audits.
 
-This framework relies instead on:
+This framework may use monitoring for read-only assurance, but those functions do not bind legitimacy.
 
-* **explicit authorization artifacts**
-* **time-bounded legitimacy**
-* **enumerability rather than interpretation**
+Legitimacy relies instead on:
 
-It is designed so that:
-
-* transparency cannot be weaponized by volume
-* audits cannot be captured by narrative
-* urgency cannot substitute for authority
+* **explicit authorization artifacts**;
+* **time-bounded legitimacy**; and
+* **enumerability rather than interpretation**.
 
 ---
 
