@@ -3,7 +3,7 @@
 ## 1. Status
 
 Draft domain profile.  
-Compatible with Governance Constitution v1.0.1.  
+Compatible with Governance Constitution v1.0.1  
 Non-normative unless explicitly adopted by an institution.
 
 This version is written as an environment-neutral agentic software translation profile. It should be adapted through the technical architecture, repository rules, security requirements, development practices, deployment procedures, institutional policies, and terminology of each adopting software environment.
