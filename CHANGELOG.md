@@ -6,6 +6,22 @@ The constitutional core and mMRM legitimacy kernel remain versioned separately f
 
 ---
 
+## Agentic Software Systems Domain Profile v0.1 — 2026-07-21
+
+### Added
+
+- Added the environment-neutral Agentic Software Systems Domain Profile.
+- Added software-environment adaptation guidance.
+- Added GitHub-style workflow guidance, governance mapping, risk-benefit matrix, adoption checklist, and illustrative agentic PR LBA.
+
+### Notes
+
+- No constitutional requirements, component authorities, schemas, or governance semantics were changed.
+- The profile remains a non-normative translation layer.
+- Detailed changes are recorded in `CHANGELOG_DOMAIN_PROFILES_v0.1.md`.
+  
+---
+
 ## Domain Profile Contract — 2026-07-14
 
 ### Added
