@@ -8,8 +8,8 @@ They do not amend the Constitution, bind legitimacy, certify compliance, or repl
 
 ## Available guides
 
-* `court_or_tribunal_adoption.md` — early draft guide for courts, tribunals, administrative decision-makers, and court-adjacent institutions.
-* `github_agentic_workflow_adoption.md` — early draft guide for GitHub-style repositories, software teams, coding agents, and developer-platform workflows.
+* [`court_or_tribunal_adoption.md`](court_or_tribunal_adoption.md) — early draft guide for courts, tribunals, administrative decision-makers, and court-adjacent institutions.
+* [`github_agentic_workflow_adoption.md`](github_agentic_workflow_adoption.md) — early draft guide for GitHub-style repositories, software teams, coding agents, and developer-platform workflows.
 
 ## Planned guides
 
