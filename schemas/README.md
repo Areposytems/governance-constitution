@@ -136,7 +136,7 @@ In addition to validation against `pcsu_transition.schema.json`, an implementati
 
 The schemas support proof-carrying governance but do not themselves bind legitimacy.
 
-Legitimacy remains governed by the Governance Constitution, the mMRM Legitimacy Kernel Specification, an applicable unexpired LBA, the relevant immutable policy and lane-schema references, and any required external institutional authority.
+Where Action Lane legitimacy is at issue, legitimacy remains governed by the Governance Constitution, the mMRM Legitimacy Kernel Specification, an applicable unexpired LBA, the relevant immutable policy and lane-schema references, and any required external institutional authority.
 
 Schema validation is one necessary control where a schema applies. It is not a substitute for authorization, review, signature verification, policy evaluation, evidence assessment, or accountable responsibility.
 
