@@ -131,10 +131,11 @@ Those concerns are intentionally left to **extensions**, domain profiles, and in
 
 * Governance Constitution: **v1.0.1**
 * Legitimacy Kernel (mMRM): **v1.0**
+* Academic Domain Profile: **placeholder draft v0.1**
+* Agentic Software Systems Domain Profile: **draft v0.1** (environment-neutral)
+* Economic Domain Profile: **placeholder draft v0.1**
 * Legal Domain Profile: **draft v0.1** (jurisdiction-neutral)
 * Medical Domain Profile: **placeholder draft v0.1**
-* Economic Domain Profile: **placeholder draft v0.1**
-* Academic Domain Profile: **placeholder draft v0.1**
 
 The framework is stable at the constitutional level. Extensions may evolve independently.
 
