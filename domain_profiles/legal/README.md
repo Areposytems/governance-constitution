@@ -1,7 +1,7 @@
 # Legal Domain Profile
 
 Status: Draft v0.1  
-Compatible with: Governance Constitution v1.0  
+Compatible with: Governance Constitution v1.0.1  
 Type: Non-normative jurisdiction-neutral domain translation profile
 
 ## Purpose
