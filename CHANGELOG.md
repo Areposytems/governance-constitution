@@ -6,6 +6,26 @@ The constitutional core and mMRM legitimacy kernel remain versioned separately f
 
 ---
 
+## Repository Documentation and Alignment Update — 2026-07-25
+
+### Added
+
+- Added `schemas/README.md` to distinguish structural schema validation from constitutional legitimacy, authorization, signature validation, scope validation, and institutional approval.
+
+### Changed
+
+- Updated domain-profile compatibility references to Governance Constitution v1.0.1.
+- Updated adoption-guide and example indexes for the Agentic Software Systems materials.
+- Added explicit Domain Profile Contract alignment to the Agentic Software Systems Domain Profile.
+- Clarified the relationship between profiles, supporting materials, adoption guides, and illustrative examples.
+
+### Notes
+
+- No constitutional requirements, component authorities, schema fields, validation rules, or governance semantics were changed.
+- The updates are documentation and alignment changes only.
+
+---
+
 ## Agentic Software Systems Domain Profile v0.1 — 2026-07-21
 
 ### Added
