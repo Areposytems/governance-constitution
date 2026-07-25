@@ -1,7 +1,7 @@
 # Economic Domain Profile
 
 Status: Placeholder draft v0.1  
-Compatible with: Governance Constitution v1.0.1
+Compatible with: Governance Constitution v1.0.1  
 Type: Non-normative domain translation profile
 
 ## Purpose
