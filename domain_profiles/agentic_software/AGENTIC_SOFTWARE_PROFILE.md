@@ -126,7 +126,31 @@ An institution adopting this profile should define:
 8. the review, rollback, recovery, and expiry conditions that apply;
 9. the process for updating the profile when tools, models, repositories, workflows, policies, or institutional practices change.
 
-## 9. Closing statement
+## 9. Package and Domain Profile Contract alignment
+
+This profile is the principal environment-neutral translation document for the Agentic Software Systems Domain Profile package.
+
+It should be read together with:
+
+* `software_environment_adaptation_note.md`, which supports translation into local platforms, roles, permissions, workflows, and terminology;
+* `agentic_software_governance_mapping.md`, which maps current agentic software concerns to the constitutional architecture;
+* `agentic_software_risk_benefit_matrix.md`, which identifies benefits, risks, failure modes, and mitigations;
+* `agentic_software_adoption_checklist.md`, which supports local review of scope, responsibility, authorization, evidence, change integrity, and exit conditions;
+* `../../adoption_guides/github_agentic_workflow_adoption.md`, which provides setting-specific non-normative adoption guidance; and
+* `../../examples/agentic_pr_lba_example.json`, which provides an illustrative artifact only.
+
+These materials perform different functions and should not be collapsed into one authority:
+
+* the Governance Constitution and mMRM specification define the constitutional core;
+* this profile translates that core into agentic software systems language;
+* supporting profile materials provide non-binding analysis and adoption assistance;
+* adoption guides address particular environments or workflows;
+* examples illustrate possible artifact forms;
+* applicable law, cybersecurity requirements, technical standards, professional duties, platform controls, and institutional policies remain external.
+
+Nothing in this profile package creates a new legitimacy-binding authority, amends the Governance Constitution, overrides mMRM, certifies an implementation, or grants permission to act.
+
+## 10. Closing statement
 
 Software institutions should not discover agentic misuse only after systems, repositories, workflows, or production environments have already changed.
 
