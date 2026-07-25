@@ -3,7 +3,7 @@
 ## 1. Status
 
 Draft domain profile.  
-Compatible with Governance Constitution v1.0.  
+Compatible with Governance Constitution v1.0.1  
 Non-normative unless explicitly adopted by an institution.
 
 This version is written as a jurisdiction-neutral legal translation profile. It should be adapted through the laws, procedural rules, professional obligations, institutional policies, and terminology of each adopting jurisdiction.
