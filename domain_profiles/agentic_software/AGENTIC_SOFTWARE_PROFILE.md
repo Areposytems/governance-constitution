@@ -2,8 +2,16 @@
 
 ## 1. Status
 
-Draft domain profile.  
-Compatible with Governance Constitution v1.0.1  
+Draft domain profile.
+
+Compatible with:
+
+* Governance Constitution v1.0.1
+* mMRM Legitimacy Kernel v1.0
+* LBA Schema v1.0
+* PCSU Transition Schema v1.0
+* Domain Profiles Changelog v0.1
+
 Non-normative unless explicitly adopted by an institution.
 
 This version is written as an environment-neutral agentic software translation profile. It should be adapted through the technical architecture, repository rules, security requirements, development practices, deployment procedures, institutional policies, and terminology of each adopting software environment.
