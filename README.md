@@ -32,7 +32,9 @@ If no such artifact exists, legitimacy does not.
 ├─ CONSTITUTION.md        # Governance Constitution v1.0.1 (normative)
 ├─ mMRM_SPEC.md           # Legitimacy Kernel Specification (normative)
 ├─ DOMAIN_PROFILE_CONTRACT.md # Rules for translating the core into domain profiles
+├─ LICENSE.md
 ├─ schemas/               # Machine-checkable artifact definitions
+│  ├─ README.md
 │  ├─ lba.schema.json     # Legitimacy Binding Artifact (LBA)
 │  └─ pcsu_transition.schema.json
 ├─ domain_profiles/       # Optional non-normative domain translation profiles
@@ -43,8 +45,8 @@ If no such artifact exists, legitimacy does not.
 │  └─ medical/
 ├─ adoption_guides/       # Non-normative implementation guidance
 ├─ examples/              # Illustrative artifacts and workflow examples
-└─ CHANGELOG.md
-```
+├─ CHANGELOG.md
+└─ CHANGELOG_DOMAIN_PROFILES_v0.1.md```
 
 ---
 
