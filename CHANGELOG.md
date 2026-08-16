@@ -2,7 +2,46 @@
 
 This changelog records substantive public changes to the Governance Constitution repository.
 
-The constitutional core and mMRM legitimacy kernel remain versioned separately from optional domain profiles. Domain profiles are non-normative translation layers unless separately adopted by an institution.
+The constitutional core and mMRM legitimacy kernel remain versioned separately from optional domain profiles. Domain profiles are non-normative with respect to the constitutional core. Institutions may make them locally binding through their own lawful or institutional authority, but such adoption does not amend, expand, or create authority within the Governance Constitution itself.
+
+---
+
+## Constitutional Authority and Action-Boundary Clarification — 2026-08-16
+
+### Added
+
+- Added an explicit Action Lane boundary to the Agentic Software Systems Domain Profile.
+- Defined agentic transition into the Action Lane through governed-state modification, protected or consequential capability invocation, changes to repositories or operational environments, and consequential institutional reliance.
+- Added a distinction between exceptional high-authority automation and illegitimate authority bypass in the Agentic Software Systems Domain Profile.
+- Added `.github/workflows/schema-validation.yml` to automatically validate illustrative Legal and Agentic Software LBA artifacts against the LBA JSON Schema on repository pushes and pull requests.
+
+### Changed
+
+- Clarified the constitutional completeness statement so that completeness applies specifically to the defined scope of constitutional legitimacy for Action Lane execution.
+- Clarified mMRM as the sole constitutional legitimacy-binding mechanism rather than an originating source of institutional authority.
+- Clarified that authority represented through an LBA must derive from the applicable human, institutional, legal, or governance structure external to mMRM.
+- Clarified that mMRM binds and exposes authority but does not create the underlying authority it records, and that an implementation does not become authoritative merely because it validates or stores LBAs.
+- Clarified the Agentic Software Systems Domain Profile so that isolated drafting, simulation, analysis, code suggestion, and proposal may remain within the Idea or Evidence Lane until a declared Action Lane boundary is crossed.
+- Clarified that consequential agentic action requires applicable authorization, while capability, successful execution, urgency, participation, or self-authorization cannot create missing authority.
+- Clarified the status of the Legal and Agentic Software Systems Domain Profiles: institutions may make profiles locally binding through their own lawful or institutional authority, but local adoption does not amend, expand, or create authority within the Governance Constitution.
+- Changed the README adoption description from "As a standard" to "As a governance baseline" to avoid implying external standards-body recognition.
+- Updated the README repository structure to include the schema-validation workflow.
+
+### Validation
+
+- The new GitHub Actions schema-validation workflow successfully validates the current Legal and Agentic Software LBA examples against `schemas/lba.schema.json`.
+- Automated schema validation establishes structural conformity only. It does not establish constitutional legitimacy, authorization validity, institutional approval, safety, correctness, lawfulness, compliance, or certification.
+
+### Notes
+
+- No new governance component or independent source of constitutional authority was introduced.
+- No LBA or PCSU schema fields were changed.
+- No component gained additional execution, semantic, certification, monitoring, or legitimacy-originating authority.
+- These changes narrow and clarify existing authority boundaries, Action Lane transitions, institutional adoption semantics, and authority provenance.
+- Governance Constitution remains v1.0.1.
+- mMRM Legitimacy Kernel remains v1.0.
+- Legal Domain Profile remains draft v0.1.
+- Agentic Software Systems Domain Profile remains draft v0.1.
 
 ---
 
