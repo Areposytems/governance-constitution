@@ -39,6 +39,10 @@ You are free to:
 
 These uses do **not** require notification, registration, or payment.
 
+Non-production evaluation, research review, and internal experimentation remain permitted regardless of institution size.
+
+These permitted uses do not include operational deployment, production use, regulated decision-making, procurement-facing adoption, or other institutionally operational use described in Section 3.
+
 ---
 
 ## 3. Restricted Uses (Commercial)
@@ -48,7 +52,7 @@ The following uses are **restricted** and require a separate commercial agreemen
 - Deployment of the framework as part of a paid product or service
 - Use of the framework in regulated or production decision-making environments
 - Offering compliance, certification, audit, or assurance services based on this framework
-- Internal adoption by large enterprises, governments, or public-sector bodies
+- Operational internal adoption by large enterprises, governments, or public-sector bodies
 - Incorporation into proprietary governance, risk, or safety products
 
 "Commercial use" here refers to use that is **revenue-generating, procurement-facing, or institutionally operational**, regardless of whether the text itself is modified.
