@@ -65,16 +65,22 @@ Restricted use includes use undertaken directly or indirectly by, for, or on beh
 
 ---
 
-## 4. Commercial Licensing
+## 4. Restricted-Use Licensing
 
-Commercial licenses are available to enable:
+Separate licenses may be granted to enable:
 - enterprise adoption
 - government or regulator-facing use
+- public-interest or institutional deployment
 - vendor offerings built on this framework
+- other operational or restricted uses described in Section 3
 
-Commercial licensing is intended to be **reasonable, proportional, and non-exclusive**.
+Licensing is intended to be **reasonable, proportional, and non-exclusive**.
 
-Obtaining a commercial license does **not** grant exclusive authority, certification rights, or control over the framework.
+A separate license may be paid, royalty-free, nominal-fee, reciprocal, public-interest, or otherwise tailored to the circumstances.
+
+Nothing in this license requires a monetary fee unless a separate written licensing agreement expressly provides for one.
+
+Obtaining a license does **not** grant ownership, exclusive authority, certification rights, exclusive stewardship, or control over the Governance Constitution.
 
 ---
 
@@ -96,13 +102,17 @@ No patent, trademark, certification, endorsement, or other intellectual-property
 
 Separate intellectual-property rights, if any, remain unaffected.
 
+Nothing in this license limits any right, exception, defence, or permitted use independently available under applicable law.
+
 ---
 
 ## 7. Non-Exclusivity & Anti-Enclosure
 
 No permission or license granted under this license transfers ownership or stewardship of the Governance Constitution or grants exclusive control over the licensed materials.
 
-A licensee may accurately state that it is licensed to use the Governance Constitution where such a license exists, but may not represent itself as the exclusive owner, exclusive steward, sole authorized implementer, certifying authority, or exclusive source of authorization for the Governance Constitution unless expressly agreed in writing.
+A licensee may accurately state that it is licensed to use the Governance Constitution where such a license exists, but may not represent itself as the exclusive owner, exclusive steward, sole authorized implementer, or exclusive source of authorization for the Governance Constitution.
+
+A separate written agreement may grant specific non-exclusive certification, implementation, advisory, or service rights, but must not transfer exclusive stewardship or exclusive control over the Governance Constitution itself.
 
 Modification, adaptation, implementation, integration, or commercial licensing does not confer ownership of, or exclusive authority over, the Governance Constitution or the unmodified licensed materials.
 
@@ -145,7 +155,7 @@ Changes to this license should be publicly versioned and recorded.
 
 ## 11. Contact
 
-For commercial licensing inquiries, contact:
+For operational, institutional, or commercial licensing inquiries, contact:
 
 areposystems@proton.me
 
