@@ -114,7 +114,7 @@ A licensee may accurately state that it is licensed to use the Governance Consti
 
 A separate written agreement may grant specific non-exclusive certification, implementation, advisory, or service rights, but must not transfer exclusive stewardship or exclusive control over the Governance Constitution itself.
 
-Modification, adaptation, implementation, integration, or commercial licensing does not confer ownership of, or exclusive authority over, the Governance Constitution or the unmodified licensed materials.
+Modification, adaptation, implementation, integration, or licensing does not confer ownership of, or exclusive authority over, the Governance Constitution or the unmodified licensed materials.
 
 Patent or other intellectual-property rights in independently developed inventions or improvements, if any, do not by themselves confer ownership of or exclusive stewardship over the Governance Constitution.
 
@@ -163,5 +163,6 @@ areposystems@proton.me
 
 ## 12. Acceptance
 
-By using, copying, or distributing this work, you agree to the terms of this license.
+To the extent that permission is required under copyright or other applicable law, exercising any permission granted by this license constitutes acceptance of its terms.
 
+Uses independently permitted under applicable law do not depend on this license.
