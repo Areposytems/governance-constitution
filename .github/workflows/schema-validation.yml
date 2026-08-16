@@ -1,0 +1,62 @@
+name: Validate constitutional artifacts
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install validator
+        run: pip install jsonschema
+
+      - name: Validate LBA examples
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from jsonschema import Draft202012Validator, FormatChecker
+
+          schema = json.loads(Path("schemas/lba.schema.json").read_text())
+
+          validator = Draft202012Validator(
+              schema,
+              format_checker=FormatChecker()
+          )
+
+          files = [
+              Path("examples/agentic_pr_lba_example.json"),
+              Path("examples/legal_lba_example.json"),
+          ]
+
+          failed = False
+
+          for path in files:
+              data = json.loads(path.read_text())
+              errors = sorted(
+                  validator.iter_errors(data),
+                  key=lambda e: list(e.path)
+              )
+
+              if errors:
+                  failed = True
+                  print(f"{path}: FAILED")
+                  for error in errors:
+                      location = ".".join(map(str, error.path)) or "<root>"
+                      print(f"  {location}: {error.message}")
+              else:
+                  print(f"{path}: OK")
+
+          if failed:
+              raise SystemExit(1)
+          PY
