@@ -103,7 +103,7 @@ Legitimacy relies instead on:
 
 You can adopt this framework at different levels:
 
-* **As a standard**: align internal governance to the Constitution
+* **As a governance baseline**: align internal governance to the Constitution
 * **As a kernel**: implement the legitimacy artifacts defined in `mMRM_SPEC.md`
 * **As a reference**: evaluate whether an existing system can *prove* legitimacy
 * **As a domain profile**: translate the Constitution into a sector-specific adoption pattern
