@@ -17,7 +17,7 @@ The Constitution distinguishes between:
 - **Operation (execution & mediation)** — non-semantic, non-authoritative
 - **Observation (assurance)** — read-only, non-certifying
 
-The system is constitutionally complete with the components defined in Part I. Additional governance functions may exist only as extensions defined in Part II.
+Within the defined scope of constitutional legitimacy for Action Lane execution, the architecture is constitutionally complete with the components defined in Part I. Additional governance functions may exist only as extensions defined in Part II.
 
 ---
 
@@ -102,11 +102,11 @@ CAA provides **read-only observability, capture detection, and external mirrorin
 ### I-9. mMRM — Minimal Model Risk Management (Legitimacy Core)
 
 #### Constitutional Role
-mMRM is the **sole legitimacy-binding authority** in the system. It defines when Action is constitutionally authorized.
+mMRM is the sole constitutional legitimacy-binding mechanism in the system. It determines when claimed Action Lane execution is constitutionally authorized through applicable Legitimacy Binding Artifacts.
+
+mMRM does not originate institutional authority. The authority represented in an LBA must derive from the applicable human, institutional, legal, or governance structure external to mMRM.
 
 mMRM does not score risk, monitor continuously, interpret semantics, or execute actions.
-
-Legitimacy here is constitutional/procedural authorization for Action Lane execution, not semantic correctness or legal validity.
 
 #### Core Concept: Legitimacy-Critical Events (LCEs)
 An LCE is any event whose occurrence authorizes or materially enables Action.
@@ -308,6 +308,8 @@ Missing required telemetry beyond a threshold must raise a non-closable alert wi
 mMRM is the legitimacy core of the governance architecture. It binds sparse, explicit, and time-bounded legitimacy for Action Lane execution through Legitimacy Binding Artifacts (LBAs).
 
 mMRM does not execute actions, judge semantic correctness, certify systems, score risk, or monitor continuously. It determines only whether an applicable, unexpired, and properly authorized LBA exists for a claimed Action Lane execution.
+
+mMRM binds and exposes authority; it does not create the underlying authority it records. An implementation of mMRM must not become authoritative merely because it validates or stores LBAs.
 
 #### Invariants
 
