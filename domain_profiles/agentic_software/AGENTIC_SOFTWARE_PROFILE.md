@@ -113,7 +113,8 @@ High-risk changes should receive proportionate review, especially where they aff
 |Medium-risk repository support|Draft pull requests, source edits, test changes, documentation commits, small refactors, dependency suggestions|Scoped authorization, evidence references, human review, source retention|
 |High-risk workflow or security use|CI/CD changes, deployment scripts, access control, authentication logic, dependency sources, secrets handling, audit or telemetry changes|Formal authorization, heightened review, proof-carrying transition records, narrow scope and expiry|
 |High-risk operational use|Release preparation, production configuration, infrastructure-as-code, live service behaviour, user-facing workflow changes, regulated or rights-affecting systems|Explicit authorization, accountable human approval, review trail, rollback or recovery conditions|
-|Prohibited or exceptional use|Autonomous merge, unsupervised production deployment, unauthorized permission escalation, secret access outside scope, self-approval, bypassing review gates|Not legitimate without explicit lawful or institutional authority, exceptional safeguards, reviewability, and non-delegated accountability|
+|Exceptional high-authority automation|Autonomous merge, automated release, production deployment, privileged infrastructure action|Permissible only where explicitly authorized by applicable institutional authority, narrowly scoped, time-bounded, independently reviewable, and subject to non-delegated accountability|
+|Illegitimate authority bypass|Unauthorized permission escalation, self-approval, bypassing declared review gates, undeclared execution paths, secret access outside scope|Not legitimate. Capability, successful execution, urgency, participation, or self-authorization cannot create the missing authority|
 
 ## 7. Relationship to existing software governance, safety, and security
 
