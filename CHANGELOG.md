@@ -6,6 +6,25 @@ The constitutional core and mMRM legitimacy kernel remain versioned separately f
 
 ---
 
+## Governance Constitution License v1.1 — 2026-08-16
+
+### Changed
+
+- Clarified the boundary between non-production experimentation and operational use.
+- Clarified restricted use across commercial, regulated, production, procurement-facing, and institutionally operational contexts.
+- Clarified indirect institutional use through contractors, vendors, affiliates, and hosted services.
+- Clarified the intellectual-property scope of the license.
+- Added explicit non-exclusivity and anti-enclosure provisions.
+- Added license-versioning rules to prevent silent retroactive license changes.
+
+### Notes
+
+- GCL-1.1 preserves free access for study, research, education, critique, and non-production experimentation.
+- Operational or commercial adoption remains subject to separate written licensing.
+- Licensing does not transfer ownership, exclusive stewardship, certification authority, or exclusive control over the Governance Constitution.
+
+---
+
 ## Constitutional Authority and Action-Boundary Clarification — 2026-08-16
 
 ### Added
