@@ -1,6 +1,6 @@
 # License
 
-## Governance Constitution License v1.0 (GCL-1.0)
+## Governance Constitution License v1.1 (GCL-1.1)
 
 Copyright © 2026 Arepo Systems
 
@@ -15,7 +15,7 @@ This work includes:
 
 This license is designed to:
 - keep the constitutional text **open and inspectable**,
-- prevent **extractive commercialization** by large institutions,
+- prevent **extractive commercialization and private enclosure** of the governance framework,
 - allow **research, education, and early-stage innovation** without friction,
 - preserve long-term stewardship of the governance framework.
 
@@ -47,9 +47,9 @@ An evaluation, experiment, prototype, pilot, sandbox, or research activity becom
 
 ---
 
-## 3. Restricted Uses (Commercial)
+## 3. Restricted Uses (Operational or Commercial)
 
-The following uses are **restricted** and require a separate commercial agreement:
+The following uses are **restricted** and require a separate written licensing agreement:
 
 - Deployment of the framework as part of a paid product or service
 - Use of the framework in regulated or production decision-making environments
@@ -57,9 +57,9 @@ The following uses are **restricted** and require a separate commercial agreemen
 - Operational internal adoption by enterprises, governments, public-sector bodies, or other institutions
 - Reproduction, adaptation, or material incorporation of the licensed materials into proprietary governance, risk, safety, compliance, or assurance products
 
-"Commercial use" here refers to use that is **revenue-generating, procurement-facing, or institutionally operational**, regardless of whether the text itself is modified.
+"Restricted use" includes use that is **revenue-generating, procurement-facing, regulated, production-facing, or institutionally operational**, regardless of whether external revenue is generated and regardless of whether the licensed materials are modified.
 
-Commercial use includes internal institutional deployment, even if no external product is sold.
+Restricted use includes internal institutional deployment, even if no external product is sold.
 
 Restricted use includes use undertaken directly or indirectly by, for, or on behalf of an institution, including through contractors, vendors, service providers, controlled affiliates, or hosted services.
 
@@ -98,7 +98,21 @@ Separate intellectual-property rights, if any, remain unaffected.
 
 ---
 
-## 7. No Warranty
+## 7. Non-Exclusivity & Anti-Enclosure
+
+No permission or license granted under this license transfers ownership or stewardship of the Governance Constitution or grants exclusive control over the licensed materials.
+
+A licensee may accurately state that it is licensed to use the Governance Constitution where such a license exists, but may not represent itself as the exclusive owner, exclusive steward, sole authorized implementer, certifying authority, or exclusive source of authorization for the Governance Constitution unless expressly agreed in writing.
+
+Modification, adaptation, implementation, integration, or commercial licensing does not confer ownership of, or exclusive authority over, the Governance Constitution or the unmodified licensed materials.
+
+Patent or other intellectual-property rights in independently developed inventions or improvements, if any, do not by themselves confer ownership of or exclusive stewardship over the Governance Constitution.
+
+Nothing in this section limits intellectual-property rights independently available under applicable law.
+
+---
+
+## 8. No Warranty
 
 This work is provided "as is" without warranty of any kind, express or implied.
 
@@ -106,7 +120,7 @@ The author makes no guarantees regarding safety, compliance, fitness for purpose
 
 ---
 
-## 8. Stewardship
+## 9. Stewardship
 
 Arepo Systems retains stewardship of the constitutional framework and may:
 - clarify interpretations
@@ -117,7 +131,19 @@ Stewardship does **not** imply central authority over implementations.
 
 ---
 
-## 9. Contact
+## 10. License Versioning
+
+Each published version of the licensed materials remains associated with the license version under which that version was distributed.
+
+Publication of a later license version does not, by itself, retroactively alter the license terms associated with an earlier published version.
+
+A separate written licensing agreement may specify the versions, materials, implementations, institutions, and uses to which that agreement applies.
+
+Changes to this license should be publicly versioned and recorded.
+
+---
+
+## 11. Contact
 
 For commercial licensing inquiries, contact:
 
@@ -125,7 +151,7 @@ areposystems@proton.me
 
 ---
 
-## 10. Acceptance
+## 12. Acceptance
 
 By using, copying, or distributing this work, you agree to the terms of this license.
 
