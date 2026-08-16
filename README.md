@@ -46,7 +46,10 @@ If no such artifact exists, legitimacy does not.
 ├─ adoption_guides/       # Non-normative implementation guidance
 ├─ examples/              # Illustrative artifacts and workflow examples
 ├─ CHANGELOG.md
-└─ CHANGELOG_DOMAIN_PROFILES_v0.1.md
+├─ CHANGELOG_DOMAIN_PROFILES_v0.1.md
+└─ .github/
+   └── workflows/
+       └── schema-validation.yml
 
 ---
 
