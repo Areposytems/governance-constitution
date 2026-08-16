@@ -47,7 +47,6 @@ The applicable lane schema may define stricter boundaries for a particular envir
 
 |Governance Constitution concept|Agentic software-domain translation|
 |-|-|
-|Legitimacy|Recognised authority to perform or prepare a consequential software action|
 |Action Lane|Externally or institutionally consequential software, repository, workflow, infrastructure, or deployment action|
 |Evidence Lane|Source-grounded issue, ticket, requirement, policy, test, log, review, incident, or documentation material requiring verification before reliance|
 |Idea Lane|Exploration, drafting, code suggestion, debugging hypothesis, design discussion, or non-applied prototype not yet relied on for consequential action|
