@@ -12,7 +12,7 @@ Compatible with:
 * PCSU Transition Schema v1.0
 * Domain Profiles Changelog v0.1
 
-Non-normative unless explicitly adopted by an institution.
+Non-normative with respect to the constitutional core. An institution may make this profile locally binding through its own lawful or institutional authority, but such adoption does not amend, expand, or create authority within the Governance Constitution itself.
 
 This version is written as an environment-neutral agentic software translation profile. It should be adapted through the technical architecture, repository rules, security requirements, development practices, deployment procedures, institutional policies, and terminology of each adopting software environment.
 
