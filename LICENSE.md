@@ -80,7 +80,9 @@ A separate license may be paid, royalty-free, nominal-fee, reciprocal, public-in
 
 Nothing in this license requires a monetary fee unless a separate written licensing agreement expressly provides for one.
 
-Obtaining a license does **not** grant ownership, exclusive authority, certification rights, exclusive stewardship, or control over the Governance Constitution.
+Obtaining a license does **not by itself** grant ownership, exclusive authority, certification rights, exclusive stewardship, or control over the Governance Constitution.
+
+Any specific certification, implementation, advisory, or service rights must be expressly granted in a separate written licensing agreement and remain subject to Section 7.
 
 ---
 
