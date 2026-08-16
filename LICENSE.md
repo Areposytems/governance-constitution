@@ -34,7 +34,7 @@ You are free to:
   - education and teaching
   - internal experimentation
   - non-commercial prototypes
-  - early-stage startups (pre-revenue or below institutional threshold)
+  - pre-revenue early-stage startups, solely for non-production evaluation, research, and prototyping
 - Propose changes, critiques, or extensions via public discussion
 
 These uses do **not** require notification, registration, or payment.
@@ -42,6 +42,8 @@ These uses do **not** require notification, registration, or payment.
 Non-production evaluation, research review, and internal experimentation remain permitted regardless of institution size.
 
 These permitted uses do not include operational deployment, production use, regulated decision-making, procurement-facing adoption, or other institutionally operational use described in Section 3.
+
+An evaluation, experiment, prototype, pilot, sandbox, or research activity becomes operational use where it materially affects live systems, production environments, real users, institutional decisions, rights, obligations, services, or externally relied-upon outcomes.
 
 ---
 
@@ -51,13 +53,15 @@ The following uses are **restricted** and require a separate commercial agreemen
 
 - Deployment of the framework as part of a paid product or service
 - Use of the framework in regulated or production decision-making environments
-- Offering compliance, certification, audit, or assurance services based on this framework
-- Operational internal adoption by large enterprises, governments, or public-sector bodies
-- Incorporation into proprietary governance, risk, or safety products
+- Offering paid compliance, certification, audit, assurance, governance, or advisory services that use, reproduce, adapt, or materially incorporate the licensed materials
+- Operational internal adoption by enterprises, governments, public-sector bodies, or other institutions
+- Reproduction, adaptation, or material incorporation of the licensed materials into proprietary governance, risk, safety, compliance, or assurance products
 
 "Commercial use" here refers to use that is **revenue-generating, procurement-facing, or institutionally operational**, regardless of whether the text itself is modified.
 
 Commercial use includes internal institutional deployment, even if no external product is sold.
+
+Restricted use includes use undertaken directly or indirectly by, for, or on behalf of an institution, including through contractors, vendors, service providers, controlled affiliates, or hosted services.
 
 ---
 
@@ -82,7 +86,19 @@ Obtaining a commercial license does **not** grant exclusive authority, certifica
 
 ---
 
-## 6. No Warranty
+## 6. Intellectual Property Scope
+
+This license governs rights in the licensed documents, specifications, schemas, documentation, and other protected expression contained in this work.
+
+Nothing in this license claims exclusive ownership over ideas, principles, methods, systems, procedures, or other subject matter that applicable law does not protect by copyright.
+
+No patent, trademark, certification, endorsement, or other intellectual-property right is granted except where expressly stated.
+
+Separate intellectual-property rights, if any, remain unaffected.
+
+---
+
+## 7. No Warranty
 
 This work is provided "as is" without warranty of any kind, express or implied.
 
@@ -90,7 +106,7 @@ The author makes no guarantees regarding safety, compliance, fitness for purpose
 
 ---
 
-## 7. Stewardship
+## 8. Stewardship
 
 Arepo Systems retains stewardship of the constitutional framework and may:
 - clarify interpretations
@@ -101,7 +117,7 @@ Stewardship does **not** imply central authority over implementations.
 
 ---
 
-## 8. Contact
+## 9. Contact
 
 For commercial licensing inquiries, contact:
 
@@ -109,7 +125,7 @@ areposystems@proton.me
 
 ---
 
-## 9. Acceptance
+## 10. Acceptance
 
 By using, copying, or distributing this work, you agree to the terms of this license.
 
