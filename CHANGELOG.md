@@ -20,7 +20,7 @@ The constitutional core and mMRM legitimacy kernel remain versioned separately f
 ### Notes
 
 - GCL-1.1 preserves free access for study, research, education, critique, and non-production experimentation.
-- Operational, regulated, production, procurement-facing, or institutionally operational adoption remains subject to separate written licensing.- Licensing does not transfer ownership, exclusive stewardship, certification authority, or exclusive control over the Governance Constitution.
+- Operational, regulated, production, procurement-facing, or institutionally operational adoption remains subject to separate written licensing.
 - Licensing does not transfer ownership, exclusive stewardship, certification authority, or exclusive control over the Governance Constitution.
 
 ---
