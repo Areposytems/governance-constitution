@@ -140,7 +140,7 @@ An institution adopting this profile should define:
 
 1. the local software terms that correspond to this profile's environment-neutral terms;
 2. the agentic software use categories permitted, restricted, or prohibited in that institution;
-3. the action classes that require a Legitimacy Binding Artifact;
+3. the activities classified as Action Lane action classes, each of which requires an applicable Legitimacy Binding Artifact before execution;
 4. the repositories, branches, files, tools, workflows, or environments that may be in scope;
 5. the human roles that remain accountable;
 6. the records required before merge, release, deployment, or other consequential action;
