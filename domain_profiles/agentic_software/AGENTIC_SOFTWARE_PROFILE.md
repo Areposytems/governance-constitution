@@ -30,6 +30,19 @@ This profile is intended to travel across software environments. Terms such as *
 
 Where local terminology differs, institutions should preserve the functional requirement rather than the exact wording.
 
+### Action boundary
+
+For this profile, an agentic output enters the Action Lane when it:
+
+* modifies governed or shared system state;
+* invokes a protected or consequential capability;
+* changes a repository, workflow, configuration, infrastructure, release, deployment, or operational environment; or
+* is relied upon as part of a consequential execution or institutional decision.
+
+Isolated drafting, simulation, analysis, code suggestion, or proposal may remain in the Idea or Evidence Lane where it has not altered governed state or been relied upon for consequential action.
+
+The applicable lane schema may define stricter boundaries for a particular environment.
+
 ## 4. Agentic software-domain translation
 
 |Governance Constitution concept|Agentic software-domain translation|
@@ -49,7 +62,7 @@ Where local terminology differs, institutions should preserve the functional req
 
 ### 5.1 Authorization before consequential action
 
-AI agents should not perform or prepare consequential software actions without an applicable authorization artifact.
+AI agents should not perform consequential software actions, or cross a declared Action Lane boundary, without an applicable authorization artifact.
 
 Consequential actions may include modifying repository files, opening or updating pull requests, changing tests, altering configuration, modifying dependencies, changing workflow rules, preparing deployment steps, or interacting with protected tools.
 
